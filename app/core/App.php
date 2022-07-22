@@ -1,4 +1,4 @@
-<?php 
+ <?php 
 
 class App{
 
@@ -55,4 +55,3 @@ class App{
 	}
 
  }
-
